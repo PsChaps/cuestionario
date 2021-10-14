@@ -5,4 +5,4 @@ Describe el procedimiento por el cual una canción de Spotify llega del servidor
 Describe los protocolos que existen en internet, en específico HTTP y HTML es el protocolo utilizado en las aplicaciones Cliente-Servidor, que articula los intercambios de información normalmente entre varios clientes y un servidor,es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-¿Cómo funciona la búsqueda de google? 
+¿Cómo funciona la búsqueda de google?
